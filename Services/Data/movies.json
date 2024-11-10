@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Movie Title 1",
+    "description": "A description of Movie Title 1.",
+    "genre": "Action",
+    "coverImage": "images/alessandro-russo-XDHb8O8km64-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Movie Title 2",
+    "description": "A description of Movie Title 2.",
+    "genre": "Drama",
+    "coverImage": "images/taitopia-render-22RnWFqM48g-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Movie Title 3",
+    "description": "A description of Movie Title 3.",
+    "genre": "Drama",
+    "coverImage": "images/chase-yi-m33oFRQp4aY-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Movie Title 4",
+    "description": "A description of Movie Title 4.",
+    "genre": "Action",
+    "coverImage": "images/alessandro-russo-XDHb8O8km64-unsplash.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Movie Title 5",
+    "description": "A description of Movie Title 5.",
+    "genre": "Drama",
+    "coverImage": "images/taitopia-render-22RnWFqM48g-unsplash.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Movie Title 6",
+    "description": "A description of Movie Title 6.",
+    "genre": "Drama",
+    "coverImage": "images/chase-yi-m33oFRQp4aY-unsplash.jpg"
+  }
+]
